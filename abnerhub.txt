@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educação para Todos</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f6f9;
+        }
+
+        header {
+            background-color: #2c7be5;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #1a5bb8;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        .container {
+            padding: 20px;
+        }
+
+        .card {
+            background-color: white;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        footer {
+            background-color: #2c7be5;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Educação para Todos</h1>
+    <p>Transformando o futuro através do conhecimento</p>
+</header>
+
+<nav>
+    <a href="#">Início</a>
+    <a href="#">Sobre</a>
+    <a href="#">Cursos</a>
+    <a href="#">Contato</a>
+</nav>
+
+<div class="container">
+    <div class="card">
+        <h2>📚 Importância da Educação</h2>
+        <p>A educação é fundamental para o desenvolvimento pessoal e social. Ela abre portas, cria oportunidades e constrói cidadãos mais conscientes.</p>
+    </div>
+
+    <div class="card">
+        <h2>🎓 Cursos Disponíveis</h2>
+        <ul>
+            <li>Matemática Básica</li>
+            <li>Português</li>
+            <li>Informática</li>
+            <li>Inglês</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>💡 Dicas de Estudo</h2>
+        <p>Organize seu tempo, revise conteúdos regularmente e pratique exercícios. A consistência é a chave do sucesso!</p>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2026 Educação para Todos</p>
+</footer>
+
+</body>
+</html>
